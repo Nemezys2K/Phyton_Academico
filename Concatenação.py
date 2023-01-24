@@ -1,0 +1,5 @@
+print("Desenvolva um programa .py no qual imprima seu nome completo e execute..")
+nome = (input("Digite o primeiro nome: "))
+nomeMeio = (input("Digite o nome do meio: "))
+sobrenome = (input("Digite o sobrenome: "))
+nomeCompleto = print("Seu nome..",nome,nomeMeio,sobrenome)

@@ -1,0 +1,6 @@
+print('Programa para definir o sexo da pessoa..')
+ss = str(input('Digite o sigla da pessoa: '))
+m = str('M')
+f = str('F')
+print('Se digitou letra M.. então sexo e masculino',m)
+print('Se digitou letra F.. então sexo e feminino',f)
